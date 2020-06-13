@@ -79,7 +79,6 @@ git tag # display all the tags
 ```
 
 ------------
-I don't feel like adding much to this at it is self-explicative.
-Also beware I never post stuff/use social platforms but for some reason I find this resource to be SO helpful to many newcomers,
-whish I'd foudn it at the beginning, hence you're welcome 😊!
+I don't feel like adding much to this at it is self-explicative.<br>
+Also beware I never post stuff/use social platforms but for some reason I find this resource to be SO helpful to many newcomers,wish I'd found it at the beginning, hence you're welcome 😊!
 
