@@ -2,7 +2,7 @@
 ## 🔥 How *_NOT_* to get Fired on first day 🔥
 A public knowledge repo for all newcomers to git
 You can also download the [PDF]() and put it on your desk/bookmark
-### [Link To Bookmark]($(document).ready(function() {
+[Link To Bookmark]($(document).ready(function() {
   $("#bookmarkme").click(function() {
     if (window.sidebar) { // Mozilla Firefox Bookmark
       window.sidebar.addPanel(location.href,document.title,"");
