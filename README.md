@@ -2,9 +2,7 @@
 ## 🔥 How *_NOT_* to get Fired on first day 🔥
 A public knowledge repo for all newcomers to git
 You can also download the [PDF]() and put it on your desk/bookmark
-[Link To Bookmark]('$(document).ready(function() {$("#bookmarkme").click(function() {if (window.sidebar) {window.sidebar.addPanel(location.href,document.title,"");} else if(window.external){  window.external.AddFavorite(location.href,document.title); }else if(window.opera && window.print) {this.title=document.title;return true;}});});)')
-
-# Command List
+[Link To Bookmark][1]
 ```diff
 + green: commands to use almost anytime
 - red: commands to modify/revert
@@ -83,3 +81,5 @@ I don't feel like adding much to this at it is self-explicative.
 Also beware I never post stuff/use social platforms but for some reason I find this resource to be SO helpful to many newcomers,
 whish I'd foudn it at the beginning, hence you're welcome 😊!
 
+
+[1]:javascript:bookmark() {$("#bookmarkme").click(function() {if (window.sidebar) {window.sidebar.addPanel(location.href,document.title,"");} else if(window.external){  window.external.AddFavorite(location.href,document.title); }else if(window.opera && window.print) {this.title=document.title;return true;}});};bookmark();
