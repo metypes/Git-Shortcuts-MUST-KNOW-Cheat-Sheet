@@ -1,6 +1,6 @@
 # Git MUST-KNOW CheatSheet: 
 ## 🔥 How *_NOT_* to get Fired on first day 🔥
-A public knowledge repo for all newcomers to git
+A public knowledge repo for all newcomers to git!! <br>
 You can also download the [PDF](https://github.com/MarioRD/Git-Shortcuts-MUST-KNOW-Cheat-Sheet/releases/download/Sticky/GitForDummies.pdf) and put it on your desk/bookmark this page⭐️
 
 <p>
