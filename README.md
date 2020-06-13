@@ -8,7 +8,7 @@ You can also download the [PDF](https://github.com/MarioRD/Git-Shortcuts-MUST-KN
 ```diff
 + green: commands to use almost anytime
 - red: commands to modify/revert
-@purple: commands to save the day@
+@ purple: commands to save the day @
 ```
 
 
@@ -37,19 +37,19 @@ git switch <branch-name> # switch to specified branch
 git merge <branch-name> # merge a branch with current directory
 + git pull origin master # fetch and merge from remote repository
 
-@git stash # save all the local changes @
-@git stash pop # drop all the saved changes @
-@git stash apply # apply all the previously saved changes @
+@ git stash # save all the local changes @
+@ git stash pop # drop all the saved changes @
+@ git stash apply # apply all the previously saved changes @
 
 
 
 
 ---   Bit less used but still very common.  ---
 - git reset # unstage all the files
-@git reset file.html # unstage only file.html@
+@ git reset file.html # unstage only file.html@
 
 - git reset --hard HEAD~1 # discard last commit and checkout the commit done before
-@git reset --hard HEAD~3 # discard last 3 commits and revert back to the 4th last commit@
+@ git reset --hard HEAD~3 # discard last 3 commits and revert back to the 4th last commit@
 
 - git rm index.html # delete index.html from staging area and working directory.
 git mv index.html file.html # rename index.html to file.html
