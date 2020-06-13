@@ -1,5 +1,6 @@
-# Git Shortcuts MUST-KNOW CheatSheet: How *_NOT_* to get Fired on first day
-A public knowledge for all newcomers to git
+# Git MUST-KNOW CheatSheet: 
+## 🔥 How *_NOT_* to get Fired on first day 🔥
+A public knowledge repo for all newcomers to git
 
 # Command List
 ```diff
