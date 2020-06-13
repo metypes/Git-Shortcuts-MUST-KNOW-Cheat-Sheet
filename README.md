@@ -2,9 +2,12 @@
 ## 🔥 How *_NOT_* to get Fired on first day 🔥
 A public knowledge repo for all newcomers to git
 You can also download the [PDF]() and put it on your desk/bookmark
+<br>
 [Link To Bookmark][1]
 
-[1]:javascript:dshjkdha
+[1]:javascript:alert('miao')
+
+<p>
 
 ```diff
 + green: commands to use almost anytime
