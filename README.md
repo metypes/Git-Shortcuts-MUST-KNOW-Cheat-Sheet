@@ -78,6 +78,8 @@ git tag # display all the tags
 
 ```
 
+![](git_basics.png?raw=true)
+
 ------------
 I don't feel like adding much to this at it is self-explicative.<br>
 Also beware I never post stuff/use social platforms but for some reason I find this resource to be SO helpful to many newcomers,wish I'd found it at the beginning, hence you're welcome 😊!
